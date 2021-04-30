@@ -1,0 +1,60 @@
+body {
+  position: relative;
+}
+
+.first-sect {
+  font-family: "Times New Roman", Times, serif;
+  background-color: darkblue;
+}
+
+.featurette-heading {
+  color: white;
+}
+
+.featurette-divider {
+  border-top: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+.second-sect {
+  background-color: white;
+}
+.content h1 {
+  font-size: 80px;
+}
+.fourth-sect {
+  font-family: "Times New Roman", Times, serif;
+  background-color: darkblue;
+  height: 90vh;
+}
+
+.container p {
+  font-size: 24px;
+}
+
+.fivth-sect {
+  background-color: white;
+}
+.fivth-sect h1 {
+  font-size: 50px;
+}
+
+.sixth-sect {
+  background-color: tomato;
+}
+
+.myfooter {
+  background-color: darkcyan;
+  height: 40vh;
+}
+.final {
+  background-color: darkgrey;
+}
+
+.price {
+  background-color: darkblue;
+}
+
+.lastsect {
+  background-color: darkblue;
+  height: 90vh;
+}
